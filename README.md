@@ -1,6 +1,6 @@
 # U.S. - Educational Finances
 
-In this project a .csv file with U.S state educational revenue and expenditure will be investigated using python fundamentals. The goal is to analyze the relationship between revenue and expenditure across U.S states. With this information further analysis can be done to gain insight about how revenue and expenditure effects public grade school education
+In this project a .csv file with U.S educational revenue and expenditure will be investigated using python fundamentals. The goal is to analyze the relationship between revenue and expenditure across U.S states. With this information further analysis can be done to gain insight about how revenue and expenditure effects public grade school education
 
 ## `Project Overview`
 
